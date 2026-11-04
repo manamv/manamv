@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://vercel.app" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=manamv&show_icons=true&theme=radical" alt="GitHub Stats" />
 <!--
 **manamv/manamv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
