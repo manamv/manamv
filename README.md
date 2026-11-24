@@ -1,1 +1,3 @@
-<img src="https://github-stats-extended.vercel.app/api?username=manamv&show_icons=true&theme=radical" alt="GitHub Stats" />
+<div align="center">
+  <img src="snowfall.svg" alt="Снегопад" width="100%" />
+</div>
