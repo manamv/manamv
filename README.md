@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="snowfall.svg" alt="Снегопад" width="100%" />
+  <img src="snowfall26.svg" alt="Снегопад" width="100%" />
 </div>
